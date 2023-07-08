@@ -1,0 +1,4 @@
+This directory is a convenient place to save and load your trained models.
+
+### There are total two trained model here. 
+The architecture is given in the models.py file. The only difference between these two model is, one take grayscale image and another take RGB image. Other things are similar.
